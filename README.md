@@ -7,7 +7,6 @@
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 [![GitHub followers](https://img.shields.io/github/followers/c01d43am.svg?style=social&label=Follow)](https://github.com/c01d43am?tab=followers)
 
 #### Talking about Personal Stuffs!
