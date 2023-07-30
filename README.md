@@ -23,4 +23,4 @@
 
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c01d43am&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c01d43am&theme=dark&show_icons=true)](https://git.io/awesome-stats-card)
