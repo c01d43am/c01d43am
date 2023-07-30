@@ -23,4 +23,4 @@
 
 </br>
 
-![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=c01d43am&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/c01d43am?cardType=level&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
