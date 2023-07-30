@@ -23,4 +23,5 @@
 
 </br>
 
-[![My Awesome Stats]([https://awesome-github-stats.azurewebsites.net/user-stats/](https://github-readme-stats.vercel.app/api?username=)c01d43am?&theme=dark&show_icons=true)](https://git.io/awesome-stats-card)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/c01d43am?cardType=octocat&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
