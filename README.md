@@ -11,7 +11,7 @@
 
 #### Talking about Personal Stuffs!
 
-<img src='https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif' align='right'>
+<img src='https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif' align='middle'>
 
 - 🔭 I’m currently working on a few flutter projects.
 - 👯 I’m looking to collaborate 🤘
