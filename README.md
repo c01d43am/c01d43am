@@ -11,7 +11,7 @@
 
 #### Talking about Personal Stuffs!
 
-<img src='[https://media.tenor.com/images/ccae3320ab522c1d09e041f1f7ffea74/tenor.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F3AyY&psig=AOvVaw3NTctQjKjdY9k-YQ2krXGb&ust=1705089181384000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODpxayO1oMDFQAAAAAdAAAAABAQ)' align='right'>
+<img src='https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif' align='right'>
 
 - 🔭 I’m currently working on a few flutter projects.
 - 👯 I’m looking to collaborate 🤘
