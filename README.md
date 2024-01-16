@@ -18,7 +18,6 @@
 - 🤔 I’m looking for help with anything in which you have expertise.
 - 💬 Ask me about anything, but I may be slow to respond.
 - 📫 How to reach me: alugolupawan@gmail.com
-- 😄 Pronouns: he
 - ⚡ Believe it or not, but almost everything that is powered by electricity has coding behind it!
 
 </br>
