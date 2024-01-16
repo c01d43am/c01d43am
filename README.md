@@ -13,7 +13,7 @@
 
 <img src='https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif' align='middle'>
 
-- 🔭 I’m currently working on a few flutter projects.
+- 🔭 I’m currently am doing some juicy stuff 😊.
 - 👯 I’m looking to collaborate 🤘
 - 🤔 I’m looking for help with anything in which you have expertise.
 - 💬 Ask me about anything, but I may be slow to respond.
