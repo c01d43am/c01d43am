@@ -8,7 +8,7 @@
 
 #### Talking about Personal Stuffs!
 
-<img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" align="middle">
+<img src='https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif' align='middle'>
 
 - 🔭 I’m currently doing some juicy stuff 😊.
 - 👯 I’m looking to collaborate 🤘
@@ -20,7 +20,7 @@
 </br>
 
 ### 🏆 TryHackMe Badge
-[![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=883476)](https://tryhackme.com/p/883476)
+<img src="https://tryhackme.com/img/thm_public_badge_bg.svg" alt="TryHackMe Badge" />
 
 ### 📊 GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=c01d43am&show_icons=true&theme=dark)](https://github.com/c01d43am)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/c01d43am?cardType=octocat&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
