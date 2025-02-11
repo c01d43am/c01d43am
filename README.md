@@ -8,6 +8,7 @@
 
 #### Talking about Personal Stuffs!
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=883476" style='border:none;'></iframe>
 <img src='https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif' align='middle'>
 
 - 🔭 I’m currently am doing some juicy stuff 😊.
