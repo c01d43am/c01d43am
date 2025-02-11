@@ -20,8 +20,7 @@
 </br>
 
 ### 🏆 TryHackMe Badge
-https://tryhackme.com/api/v2/badges/public-profile?userPublicId=883476
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/c01d43am?cardType=octocat&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=883476)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=883476)
 <img src="https://tryhackme-badges.s3.amazonaws.com/c01d43am.png" alt="TryHackMe Badge" />
 
 ### 📊 GitHub Stats
