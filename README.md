@@ -8,7 +8,6 @@
 
 #### Talking about Personal Stuffs!
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=883476" style='border:none;'></iframe>
 <img src='https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif' align='middle'>
 
 - 🔭 I’m currently am doing some juicy stuff 😊.
@@ -22,4 +21,5 @@
 
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=883476" style='border:none;'></iframe>
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/883476.png)](https://tryhackme.com/p/883476)
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/c01d43am?cardType=octocat&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
