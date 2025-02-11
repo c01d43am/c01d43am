@@ -20,7 +20,7 @@
 </br>
 
 ### 🏆 TryHackMe Badge
-[![TryHackMe](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=883476" style='border:none;'></iframe>)](https://tryhackme.com/p/883476)
+[![TryHackMe]<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=883476" style='border:none;'></iframe>(https://tryhackme.com/p/883476)
 
 ### 📊 GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=c01d43am&show_icons=true&theme=dark)](https://github.com/c01d43am)
