@@ -14,10 +14,13 @@
 - 👯 I’m looking to collaborate 🤘
 - 🤔 I’m looking for help with anything in which you have expertise.
 - 💬 Ask me about anything, but I may be slow to respond.
-- 📫 How to reach me: alugolupawan@gmail.com
+- 📫 How to reach me: **alugolupawan@gmail.com**
 - ⚡ Believe it or not, but almost everything that is powered by electricity has coding behind it!
 
 </br>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=883476" style='border:none;'></iframe>
 
+### 🏆 TryHackMe Badge
+<img src="https://tryhackme-badges.s3.amazonaws.com/c01d43am.png" alt="TryHackMe Badge" />
+
+### 📊 GitHub Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/c01d43am?cardType=octocat&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
