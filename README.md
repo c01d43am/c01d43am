@@ -18,3 +18,8 @@
 - ⚡ Believe it or not, but almost everything that is powered by electricity has coding behind it!
 
 </br>
+
+### TryHackMe Badge
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/883476.png)](https://tryhackme.com/p/883476)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/c01d43am?cardType=octocat&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
