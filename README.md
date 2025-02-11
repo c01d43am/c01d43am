@@ -20,5 +20,5 @@
 </br>
 
 ### TryHackMe Badge
-<img src="https://camo.githubusercontent.com/45eb2a118e70944e110e81b750bcde4d7a6180611cd632f129dd298d5458a22e/68747470733a2f2f7472796861636b6d652d6261646765732e73332e616d617a6f6e6177732e636f6d2f616e6472656a2e6d6172696e6368656e6b6f2e706e67" alt="TryHackMe" data-canonical-src="https://tryhackme-badges.s3.amazonaws.com/andrej.marinchenko.png" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/45eb2a118e70944e110e81b750bcde4d7a6180611cd632f129dd298d5458a22e/68747470733a2f2f7472796861636b6d652d6261646765732e73332e616d617a6f6e6177732e636f6d2f616e6472656a2e6d6172696e6368656e6b6f2e706e67" alt="TryHackMe" data-canonical-src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=883476" style="max-width: 100%;">
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/c01d43am?cardType=octocat&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
