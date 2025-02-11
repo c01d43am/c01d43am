@@ -19,6 +19,6 @@
 
 </br>
 
-[![TryHackMe](https://tryhackme.com/api/badge/stats/c01d43am.svg)](https://tryhackme.com/p/c01d43am)
+[![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=883476)](https://tryhackme.com/p/c01d43am)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/c01d43am?cardType=octocat&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
