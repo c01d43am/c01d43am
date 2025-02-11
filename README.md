@@ -21,37 +21,3 @@
 
 ### 📊 GitHub Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/c01d43am?cardType=octocat&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
-
-<div id="thm-badge" role="button" tabindex="0" aria-label="user avatar">
-  <div class="thm-avatar-outer">
-    <div class="thm-avatar"></div>
-  </div>
-  <div class="badge-user-details">
-    <div class="title-wrapper">
-      <span class="user_name">c01d43am</span>
-      <div>
-        <i class="fa-solid fa-bolt-lightning rank-icon"></i>
-        <span class="rank-title">[0x2]</span>
-      </div>
-    </div>
-    <div class="details-wrapper">
-      <div class="details-icon-wrapper">
-        <i class="fa-solid fa-trophy detail-icons trophy-icon"></i>
-        <span class="details-text">771869</span>
-      </div>
-      <div class="details-icon-wrapper">
-        <i class="fa-solid fa-fire detail-icons fire-icon"></i>
-        <span class="details-text">1 day</span>
-      </div>
-      <div class="details-icon-wrapper">
-        <i class="fa-solid fa-award detail-icons award-icon"></i>
-        <span class="details-text">0</span>
-      </div>
-      <div class="details-icon-wrapper">
-        <i class="fa-solid fa-door-closed detail-icons door-closed-icon"></i>
-        <span class="details-text">5</span>
-      </div>
-    </div>
-    <a href="https://tryhackme.com/p/c01d43am" class="thm-link" target="_blank">tryhackme.com</a>
-  </div>
-</div>
