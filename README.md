@@ -24,4 +24,4 @@
 </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c01d43am&layout=compact)
 </br>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c01d43am)](https://github.com/c01d43am/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?c01d43am=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
