@@ -22,4 +22,3 @@
 ### 📊 GitHub Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/c01d43am?cardType=level-alternate&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c01d43am&layout=compact)
