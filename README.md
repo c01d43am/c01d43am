@@ -1,24 +1,47 @@
-### Hola 👋, I'm [Pawan]
+<div align="center">
+  
+# Hi there, I'm Pawan 👋
 
-<a href="https://www.linkedin.com/in/apawan/">
-  <img align="left" alt="Pawan's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
+### Software Developer | Tech Enthusiast | Lifelong Learner
 
-[![GitHub followers](https://img.shields.io/github/followers/c01d43am.svg?style=social&label=Follow)](https://github.com/c01d43am?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apawan/)
+[![GitHub followers](https://img.shields.io/github/followers/c01d43am?label=Follow&style=for-the-badge&logo=github&color=181717)](https://github.com/c01d43am?tab=followers)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alugolupawan@gmail.com)
 
-#### Talking about Personal Stuffs!
+</div>
 
-<img src='https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif' align='middle'>
+---
 
-- 🔭 I’m currently doing some juicy stuff 😊.
-- 👯 I’m looking to collaborate 🤘
-- 🤔 I’m looking for help with anything in which you have expertise.
-- 💬 Ask me about anything, but I may be slow to respond.
-- 📧 How to reach me: **alugolupawan@gmail.com**
-- ⚡ Believe it or not, but almost everything that is powered by electricity has coding behind it!
+## 🚀 About Me
 
-</br>
+I'm a passionate developer committed to creating innovative solutions and continuously expanding my technical expertise. I thrive on tackling complex challenges and transforming ideas into reality through clean, efficient code.
 
-### 📊 GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/c01d43am?cardType=level-alternate&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
-</br>
+### 💼 Current Focus
+- 🔭 Building exciting projects and exploring cutting-edge technologies
+- 👯 Open to collaboration on innovative and impactful projects
+- 🌱 Continuously learning and staying updated with industry trends
+- 💡 Sharing knowledge and contributing to the developer community
+
+### 🤝 Let's Connect
+I'm always interested in connecting with fellow developers, discussing new ideas, and exploring collaboration opportunities. Feel free to reach out!
+
+📧 **Email:** [alugolupawan@gmail.com](mailto:alugolupawan@gmail.com)  
+💬 **Open to:** Technical discussions, project collaborations, and knowledge sharing
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/c01d43am?cardType=level-alternate&theme=radical&preferLogin=false)](https://github.com/c01d43am)
+
+</div>
+
+---
+
+<div align="center">
+  
+### "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+</div>
